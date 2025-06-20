@@ -1,0 +1,6 @@
+Shell> cd C:\Users\UTSOB\Desktop
+Shell> dir
+
+
+Shell> cd C:\Users\UTSOB\Documents
+Shell> dir
